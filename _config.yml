@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "MNMN"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "적당히 사는게 목표였지만 무리무리일 것 같아용."
   location         : "용인나라"
   email            :
