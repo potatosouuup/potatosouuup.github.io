@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "MNMN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "적당히 사는게 목표였지만 무리무리일 것 같아용."
+  location         : "용인나라"
   email            :
   links:
     - label: "Email"
